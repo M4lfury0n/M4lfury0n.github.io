@@ -1,0 +1,52 @@
+html {
+  font-size: 26px;
+  font-family: "Ubuntu Condensed";
+  background-color: black;
+}
+#SiteName{
+  font-size: 85px;
+  font-style: oblique;
+  color: black;
+  background-color: lightblue;
+  margin: auto;
+  align-content: center;
+  border-radius: 10px;
+}
+h2, h3 {
+  font-size: 40px;
+  color: darkblue;
+}
+#parag_01, #parag_02{
+  background-color: black;
+  color: lightblue;
+  border-radius: 10px;
+  padding: 10px;
+}
+ol , ul {
+  padding: 5px;
+}
+body {
+  border-radius: 25px;
+  padding: 5%;
+  background-color: pink;
+  margin: 5%;
+}
+#link1:hover{
+  color: lightblue;
+  background-color: grey;
+  padding: 15px;
+  border-radius: 5px;
+  border-color: black;
+}
+a{
+  color: darkblue;
+}
+#picture {
+  height: 800px;
+  display: block;
+  margin: auto;
+}
+button {
+  display: block;
+  margin: auto;
+}
